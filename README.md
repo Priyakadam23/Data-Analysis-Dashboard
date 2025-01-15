@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This dashboard showcases a data-driven analysis of Blinkit's sales, outlet performance, and product distribution. It leverages interactive visuals like charts and KPIs to provide actionable insights, making it an excellent tool for monitoring and optimizing business operations.
+Blinkit Grocery Sales Analys (interactive dashboard creation Using Power BI)
+Project Objective 
+To conduct a comprehensive analysis of Blink it's sales performance ,customer- satisfaction & inventory distribution to identify key insights & to identify the Key insights and opportunities using various KPI's & visualizations in Power BI.
