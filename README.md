@@ -8,3 +8,5 @@ To conduct a comprehensive analysis of Blink it's sales performance ,customer- s
 - cleaned large datasets to ensure accuracy and created calculated fields for metrics like total sales, average sales, and item count.
 - Implemented dynamic filters and slicers for Outlet Location, Size, and Item Type to enhance interactivity and user experience.
 - Utilized various visualizations (e.g., cards, bar charts, donut charts, and line graphs) to provide actionable insights into outlet performance and sales trends.
+## Dashboard
+![Blinkit dashboard](https://github.com/user-attachments/assets/1f7af419-b4c7-4c57-8570-5ded8f96d8fa)
