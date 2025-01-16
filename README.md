@@ -4,3 +4,7 @@ To conduct a comprehensive analysis of Blink it's sales performance ,customer- s
 ## Dataset Used
 - <a href="https://github.com/Priyakadam23/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 - Dashboard interaction <a href="https://github.com/Priyakadam23/Data-Analysis-Dashboard/blob/main/Blinkit%20dashboard.png">View Dashboard</a>
+## process
+- cleaned large datasets to ensure accuracy and created calculated fields for metrics like total sales, average sales, and item count.
+- Implemented dynamic filters and slicers for Outlet Location, Size, and Item Type to enhance interactivity and user experience.
+- Utilized various visualizations (e.g., cards, bar charts, donut charts, and line graphs) to provide actionable insights into outlet performance and sales trends.
