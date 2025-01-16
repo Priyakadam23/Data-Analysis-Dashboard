@@ -10,5 +10,12 @@ To conduct a comprehensive analysis of Blink it's sales performance ,customer- s
 - Utilized various visualizations (e.g., cards, bar charts, donut charts, and line graphs) to provide actionable insights into outlet performance and sales trends.
 ## Dashboard
 ![Blinkit dashboard](https://github.com/user-attachments/assets/1f7af419-b4c7-4c57-8570-5ded8f96d8fa)
+## Project insights
+- Supermarket 1 has the highest sales count.
+- Average Ratings of Blinkit is 3.9/5
+- Lower fat content items has the highest sales than the regular. 
+- Fruits and vegetables has the highest demand whereas Seafood has the lowest demand as per the item type 
+- Outlet Established in 2014 , 2016 has the same count of sales whereas 2018 outlets established has the highest sales .
+- Big Size outlets has the lowest sales .
 ## Final Conclusion
  developed a comprehensive and interactive dashboard in Power BI that provides actionable insights into sales performance, outlet metrics, and product trends. By leveraging dynamic filters, calculated fields, and visually engaging elements, I streamlined data-driven decision-making and enhanced the overall user experience. This project demonstrates my expertise in data visualization, analytical thinking, and proficiency in tools like Power BI for delivering impactful business solutions.
